@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
-  * main = Entry point
+  * main - Entry point
   *
-  * Description: A C Program
+  * Description: A C Program that prints with put function
   *
-  * Return 0
+  * Return:Always 0 (success)
 */
 
 int main(void)
